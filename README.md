@@ -7,7 +7,7 @@
 [Performance Testing Report](https://drive.google.com/file/d/1CiZ8XpVBCVPT7vy0mhUgfD7akJluQj-B/view?usp=sharing)
 
 ## 📽️ Video 
-[Video demo](https://youtu.be/9GhoyGlxtsc)
+[Video demo](https://youtu.be/k2uUKwCy1n4)
 
 
 ## 📖 Introduction
