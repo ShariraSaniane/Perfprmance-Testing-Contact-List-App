@@ -1,0 +1,2 @@
+baseUrl=https://thinking-tester-contact-list.herokuapp.com/
+authToken=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzlmMzJlNjA1NTUxZDAwMTNlMDYxZTIiLCJpYXQiOjE3Mzg0ODY2MDZ9.PTxctg5Pb6DUo19qcrTyt3AbCiIMNA0NefEinLiYw5o

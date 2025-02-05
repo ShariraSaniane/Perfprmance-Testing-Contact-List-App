@@ -1,0 +1,503 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738666563411,7875,Login User,200,OK,Load/stress Testing  1-1,text,true,,1260,308,21,21,https://thinking-tester-contact-list.herokuapp.com/users/login,7875,0,1123
+1738666564021,7613,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,669,308,22,22,https://thinking-tester-contact-list.herokuapp.com/users/login,7613,0,857
+1738666564633,7522,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,669,308,23,23,https://thinking-tester-contact-list.herokuapp.com/users/login,7522,0,843
+1738666565246,7628,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,669,308,24,24,https://thinking-tester-contact-list.herokuapp.com/users/login,7628,0,893
+1738666565861,7587,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,308,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,7587,0,906
+1738666566474,7534,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,669,308,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,7534,0,856
+1738666567089,7555,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,665,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,7555,0,866
+1738666567702,7552,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,665,308,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,7552,0,857
+1738666576288,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,547,0,30,30,null,0,0,0
+1738666568928,7522,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,673,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,7522,0,863
+1738666568316,8348,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,665,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,8348,0,848
+1738666569543,7556,Login User,401,Unauthorized,Load/stress Testing  1-11,,false,,673,308,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,7556,0,865
+1738666570156,7564,Login User,200,OK,Load/stress Testing  1-12,text,true,,1264,308,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,7564,0,855
+1738666570771,7520,Login User,401,Unauthorized,Load/stress Testing  1-13,,false,,669,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,7520,0,841
+1738666571384,7709,Login User,401,Unauthorized,Load/stress Testing  1-14,,false,,669,308,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,7709,0,1001
+1738666571998,7507,Login User,401,Unauthorized,Load/stress Testing  1-15,,false,,665,308,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,7507,0,846
+1738666572612,7592,Login User,401,Unauthorized,Load/stress Testing  1-16,,false,,665,308,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,7592,0,901
+1738666573226,7551,Login User,401,Unauthorized,Load/stress Testing  1-17,,false,,673,308,37,37,https://thinking-tester-contact-list.herokuapp.com/users/login,7551,0,851
+1738666573837,7522,Login User,401,Unauthorized,Load/stress Testing  1-18,,false,,669,308,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,7522,0,861
+1738666574451,7583,Login User,401,Unauthorized,Load/stress Testing  1-19,,false,,669,308,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,7583,0,852
+1738666582720,0,Debug Sampler,200,OK,Load/stress Testing  1-12,text,true,,573,0,40,40,null,0,0,0
+1738666576635,6697,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,665,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,6697,0,0
+1738666577156,6717,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,665,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,6717,0,0
+1738666575063,8821,Login User,401,Unauthorized,Load/stress Testing  1-20,,false,,665,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,8821,0,2116
+1738666575675,8558,Login User,200,OK,Load/stress Testing  1-21,text,true,,1256,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,8558,0,1847
+1738666576903,7527,Login User,401,Unauthorized,Load/stress Testing  1-23,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,7527,0,838
+1738666577880,6706,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,6706,0,0
+1738666576288,8529,Login User,401,Unauthorized,Load/stress Testing  1-22,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,8529,0,1843
+1738666577516,7532,Login User,401,Unauthorized,Load/stress Testing  1-24,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,7532,0,858
+1738666578449,6825,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,6825,0,0
+1738666579008,7209,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,673,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,7209,0,0
+1738666578127,8360,Login User,401,Unauthorized,Load/stress Testing  1-25,,false,,673,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,8360,0,871
+1738666578739,8060,Login User,401,Unauthorized,Load/stress Testing  1-26,,false,,669,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,8060,0,882
+1738666579644,7391,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,669,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,7391,0,0
+1738666580255,6788,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,6788,0,0
+1738666579351,8619,Login User,401,Unauthorized,Load/stress Testing  1-27,,false,,669,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,8619,0,882
+1738666581450,6735,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,673,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,6735,0,0
+1738666581665,6690,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,6690,0,0
+1738666579963,8442,Login User,401,Unauthorized,Load/stress Testing  1-28,,false,,673,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,8442,0,855
+1738666580577,8169,Login User,401,Unauthorized,Load/stress Testing  1-29,,false,,673,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,8169,0,866
+1738666581190,7651,Login User,401,Unauthorized,Load/stress Testing  1-30,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,7651,0,880
+1738666589238,0,Debug Sampler,200,OK,Load/stress Testing  1-21,text,true,,548,0,41,41,null,0,0,0
+1738666582103,7239,Login User,401,Unauthorized,Load/stress Testing  1-11,,false,,669,308,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,7239,0,0
+1738666581810,7782,Login User,401,Unauthorized,Load/stress Testing  1-31,,false,,665,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,7782,0,865
+1738666583292,7352,Login User,200,OK,Load/stress Testing  1-13,text,true,,1256,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,7352,0,0
+1738666582427,8475,Login User,401,Unauthorized,Load/stress Testing  1-32,,false,,665,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,8475,0,863
+1738666583045,8180,Login User,401,Unauthorized,Load/stress Testing  1-33,,false,,665,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,8180,0,849
+1738666584095,7446,Login User,401,Unauthorized,Load/stress Testing  1-14,,false,,665,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,7446,0,0
+1738666584507,7496,Login User,401,Unauthorized,Load/stress Testing  1-15,,false,,665,308,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,7496,0,0
+1738666583654,8389,Login User,401,Unauthorized,Load/stress Testing  1-34,,false,,665,308,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,8389,0,868
+1738666584264,9341,Login User,401,Unauthorized,Load/stress Testing  1-35,,false,,673,308,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,9341,0,875
+1738666585206,9033,Login User,401,Unauthorized,Load/stress Testing  1-16,,false,,673,308,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,9033,0,0
+1738666584883,9481,Login User,401,Unauthorized,Load/stress Testing  1-36,,false,,669,308,37,37,https://thinking-tester-contact-list.herokuapp.com/users/login,9481,0,860
+1738666585779,8858,Login User,401,Unauthorized,Load/stress Testing  1-17,,false,,669,308,37,37,https://thinking-tester-contact-list.herokuapp.com/users/login,8858,0,0
+1738666586361,8835,Login User,401,Unauthorized,Load/stress Testing  1-18,,false,,669,308,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,8835,0,0
+1738666587931,7529,Login User,401,Unauthorized,Load/stress Testing  1-41,,false,,673,308,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,7529,0,865
+1738666588892,6708,Login User,401,Unauthorized,Load/stress Testing  1-20,,false,,673,308,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,6708,0,0
+1738666595647,1,Debug Sampler,200,OK,Load/stress Testing  1-13,text,true,,573,0,34,34,null,0,0,0
+1738666585493,10808,Login User,401,Unauthorized,Load/stress Testing  1-37,,false,,669,308,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,10808,0,916
+1738666589446,6986,Login User,401,Unauthorized,Load/stress Testing  1-23,,false,,673,308,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,6986,0,0
+1738666588545,8029,Login User,401,Unauthorized,Load/stress Testing  1-42,,false,,673,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,8029,0,884
+1738666587036,9707,Login User,401,Unauthorized,Load/stress Testing  1-19,,false,,673,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,9707,0,0
+1738666586102,10856,Login User,401,Unauthorized,Load/stress Testing  1-38,,false,,673,308,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,10856,0,955
+1738666589164,7900,Login User,200,OK,Load/stress Testing  1-43,text,true,,1264,308,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,7900,0,897
+1738666586712,10665,Login User,401,Unauthorized,Load/stress Testing  1-39,,false,,665,308,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,10665,0,865
+1738666587722,10009,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",3260,0,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738666587324,10865,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-40,text,false,,3260,0,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,860
+1738666589828,8630,Login User,401,Unauthorized,Load/stress Testing  1-22,,false,,673,308,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,8630,0,0
+1738666590368,8376,Login User,401,Unauthorized,Load/stress Testing  1-45,,false,,669,308,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,8376,0,876
+1738666591499,7535,Login User,401,Unauthorized,Load/stress Testing  1-25,,false,,669,308,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,7535,0,0
+1738666591596,7983,Login User,401,Unauthorized,Load/stress Testing  1-47,,false,,669,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,7983,0,859
+1738666592198,7595,Login User,401,Unauthorized,Load/stress Testing  1-48,,false,,665,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,7595,0,866
+1738666590052,9837,Login User,401,Unauthorized,Load/stress Testing  1-24,,false,,673,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,9837,0,0
+1738666593418,6724,Login User,401,Unauthorized,Load/stress Testing  1-28,,false,,665,308,29,29,https://thinking-tester-contact-list.herokuapp.com/users/login,6724,0,0
+1738666589765,10855,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-44,text,false,,3260,0,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,850
+1738666592800,8307,Login User,401,Unauthorized,Load/stress Testing  1-49,,false,,681,308,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,8307,0,874
+1738666591800,9477,Login User,401,Unauthorized,Load/stress Testing  1-26,,false,,669,308,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,9477,0,0
+1738666590990,10456,Login User,401,Unauthorized,Load/stress Testing  1-46,,false,,669,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,10456,0,882
+1738666592974,8503,Login User,401,Unauthorized,Load/stress Testing  1-27,,false,,665,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,8503,0,0
+1738666593752,7773,Login User,401,Unauthorized,Load/stress Testing  1-29,,false,,681,308,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,7773,0,0
+1738666593843,7764,Login User,401,Unauthorized,Load/stress Testing  1-30,,false,,681,308,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,7764,0,0
+1738666602077,0,Debug Sampler,200,OK,Load/stress Testing  1-43,text,true,,548,0,24,24,null,0,0,0
+1738666593403,9636,Login User,401,Unauthorized,Load/stress Testing  1-50,,false,,681,308,24,24,https://thinking-tester-contact-list.herokuapp.com/users/login,9636,0,866
+1738666597045,6761,Login User,200,OK,Load/stress Testing  1-34,text,true,,1256,308,24,24,https://thinking-tester-contact-list.herokuapp.com/users/login,6761,0,0
+1738666594594,9348,Login User,401,Unauthorized,Load/stress Testing  1-31,,false,,665,308,24,24,https://thinking-tester-contact-list.herokuapp.com/users/login,9348,0,0
+1738666595904,8199,Login User,401,Unauthorized,Load/stress Testing  1-32,,false,,673,308,23,23,https://thinking-tester-contact-list.herokuapp.com/users/login,8199,0,0
+1738666596226,8280,Login User,401,Unauthorized,Load/stress Testing  1-33,,false,,673,308,22,22,https://thinking-tester-contact-list.herokuapp.com/users/login,8280,0,0
+1738666598607,7298,Login User,401,Unauthorized,Load/stress Testing  1-35,,false,,665,308,21,21,https://thinking-tester-contact-list.herokuapp.com/users/login,7298,0,0
+1738666600650,5477,Get Contacs List,200,OK,Load/stress Testing  1-13,text,true,,89784,524,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/,4914,0,0
+1738666599372,7115,Login User,401,Unauthorized,Load/stress Testing  1-36,,false,,665,308,20,20,https://thinking-tester-contact-list.herokuapp.com/users/login,7115,0,0
+1738666600460,6708,Login User,401,Unauthorized,Load/stress Testing  1-41,,false,,669,308,19,19,https://thinking-tester-contact-list.herokuapp.com/users/login,6708,0,0
+1738666601311,6700,Login User,401,Unauthorized,Load/stress Testing  1-37,,false,,665,308,18,18,https://thinking-tester-contact-list.herokuapp.com/users/login,6700,0,0
+1738666601581,6770,Login User,401,Unauthorized,Load/stress Testing  1-42,,false,,673,308,17,17,https://thinking-tester-contact-list.herokuapp.com/users/login,6770,0,0
+1738666601965,6729,Login User,401,Unauthorized,Load/stress Testing  1-38,,false,,673,308,16,16,https://thinking-tester-contact-list.herokuapp.com/users/login,6729,0,0
+1738666608815,0,Debug Sampler,200,OK,Load/stress Testing  1-34,text,true,,548,0,15,15,null,0,0,0
+1738666581289,27622,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/,8141,0,0
+1738666602377,6753,Login User,401,Unauthorized,Load/stress Testing  1-39,,false,,673,308,15,15,https://thinking-tester-contact-list.herokuapp.com/users/login,6753,0,0
+1738666602742,7299,Login User,401,Unauthorized,Load/stress Testing  1-12,,false,,669,308,14,14,https://thinking-tester-contact-list.herokuapp.com/users/login,7299,0,573
+1738666603752,6771,Login User,200,OK,Load/stress Testing  1-45,text,true,,1260,308,13,13,https://thinking-tester-contact-list.herokuapp.com/users/login,6771,0,0
+1738666603203,7427,Login User,401,Unauthorized,Load/stress Testing  1-40,,false,,669,308,13,13,https://thinking-tester-contact-list.herokuapp.com/users/login,7427,0,587
+1738666604591,6706,Login User,401,Unauthorized,Load/stress Testing  1-47,,false,,669,308,12,12,https://thinking-tester-contact-list.herokuapp.com/users/login,6706,0,0
+1738666604798,6785,Login User,401,Unauthorized,Load/stress Testing  1-48,,false,,669,308,11,11,https://thinking-tester-contact-list.herokuapp.com/users/login,6785,0,0
+1738666594242,18228,Get Contacs List,200,OK,Load/stress Testing  1-21,text,true,,89800,524,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,6680,0,0
+1738666606109,6704,Login User,401,Unauthorized,Load/stress Testing  1-49,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,6704,0,0
+1738666605623,7263,Login User,401,Unauthorized,Load/stress Testing  1-44,,false,,673,308,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,7263,0,573
+1738666606449,6724,Login User,401,Unauthorized,Load/stress Testing  1-46,,false,,673,308,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,6724,0,0
+1738666608042,6794,Login User,401,Unauthorized,Load/stress Testing  1-50,,false,,669,308,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,6794,0,0
+1738666611135,4067,Update Contact ,200,OK,Load/stress Testing  1-13,text,true,,1057,988,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4067,0,0
+1738666615528,0,Debug Sampler,200,OK,Load/stress Testing  1-45,text,true,,571,0,6,6,null,0,0,0
+1738666617472,3513,Update Contact ,200,OK,Load/stress Testing  1-21,text,true,,1069,988,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3513,0,0
+1738666613924,7332,Login User,200,OK,Load/stress Testing  1-1,text,true,,1256,308,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,7332,0,574
+1738666613828,10182,Get Contacs List,200,OK,Load/stress Testing  1-34,text,true,,89784,524,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/,4936,0,0
+1738666620209,5351,Add Contact ,201,Created,Load/stress Testing  1-13,text,true,,1062,856,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,5351,0,0
+1738666620528,5235,Get Contacs List,200,OK,Load/stress Testing  1-45,text,true,,89796,524,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/,4659,0,0
+1738666626258,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,566,0,6,6,null,0,0,0
+1738666625987,3510,Add Contact ,201,Created,Load/stress Testing  1-21,text,true,,1066,856,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,3510,0,0
+1738666629022,4404,Update Contact ,200,OK,Load/stress Testing  1-34,text,true,,1065,988,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4404,0,0
+1738666630562,3972,Get Contact,200,OK,Load/stress Testing  1-13,text,true,,1057,547,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f281e0f4720013abc04e,3972,0,0
+1738666630766,4638,Update Contact ,200,OK,Load/stress Testing  1-45,text,true,,1057,988,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4638,0,0
+1738666631273,5262,Get Contacs List,200,OK,Load/stress Testing  1-1,text,true,,90402,524,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/,4681,0,0
+1738666634505,3476,Get Contact,200,OK,Load/stress Testing  1-21,text,true,,1057,547,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f285ad458a00134b248f,3476,0,0
+1738666607086,35887,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/,4674,0,0
+1738666638442,4603,Add Contact ,201,Created,Load/stress Testing  1-34,text,true,,1062,856,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,4603,0,0
+1738666639539,4322,Delete Contact,200,OK,Load/stress Testing  1-13,text,true,,772,615,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f281e0f4720013abc04e,4322,0,838
+1738666640406,3485,Add Contact ,201,Created,Load/stress Testing  1-45,text,true,,1078,856,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,3485,0,0
+1738666641546,3539,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1057,988,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3539,0,0
+1738666642989,4065,Delete Contact,200,OK,Load/stress Testing  1-21,text,true,,756,615,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f285ad458a00134b248f,4065,0,575
+1738666648870,364,Add User,201,Created,Load/stress Testing  1-13,text,true,,1307,709,6,6,https://thinking-tester-contact-list.herokuapp.com/users,364,0,0
+1738666648049,4064,Get Contact,200,OK,Load/stress Testing  1-34,text,true,,1065,547,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f292e0f4720013abc04f,4064,0,571
+1738666652056,352,Add User,201,Created,Load/stress Testing  1-21,text,true,,1306,706,5,5,https://thinking-tester-contact-list.herokuapp.com/users,352,0,0
+1738666648892,4069,Get Contact,200,OK,Load/stress Testing  1-45,text,true,,1065,547,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f294ad458a00134b2490,4069,0,0
+1738666650087,4002,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1062,856,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,4002,0,0
+1738666647976,7397,Login User,200,OK,Load/stress Testing  1-43,text,true,,1256,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,7397,0,573
+1738666660373,0,Debug Sampler,200,OK,Load/stress Testing  1-43,text,true,,571,0,5,5,null,0,0,0
+1738666657121,3505,Delete Contact,200,OK,Load/stress Testing  1-34,text,true,,764,615,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f292e0f4720013abc04f,3505,0,0
+1738666657961,4067,Delete Contact,200,OK,Load/stress Testing  1-45,text,true,,756,615,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f294ad458a00134b2490,4067,0,586
+1738666659097,3485,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1057,547,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f29ead458a00134b2495,3485,0,0
+1738666657422,6835,Login User,200,OK,Load/stress Testing  1-21,text,true,,1268,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,6835,0,0
+1738666665627,359,Add User,201,Created,Load/stress Testing  1-34,text,true,,1302,706,5,5,https://thinking-tester-contact-list.herokuapp.com/users,359,0,0
+1738666667031,375,Add User,201,Created,Load/stress Testing  1-45,text,true,,1310,708,4,4,https://thinking-tester-contact-list.herokuapp.com/users,375,0,0
+1738666669259,0,Debug Sampler,200,OK,Load/stress Testing  1-21,text,true,,684,0,3,3,null,0,0,0
+1738666667589,3503,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,760,615,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f29ead458a00134b2495,3503,0,0
+1738666665386,6166,Get Contacs List,200,OK,Load/stress Testing  1-43,text,true,,90091,524,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/,4685,0,0
+1738666676094,2876,Add User,201,Created,Load/stress Testing  1-1,text,true,,1300,706,3,3,https://thinking-tester-contact-list.herokuapp.com/users,2876,0,790
+1738666676554,4192,Update Contact ,200,OK,Load/stress Testing  1-43,text,true,,1065,988,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4192,0,0
+1738666679276,3524,Update Contact ,200,OK,Load/stress Testing  1-21,text,true,,1057,988,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3523,0,0
+1738666685750,3500,Add Contact ,201,Created,Load/stress Testing  1-43,text,true,,1066,856,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,3500,0,0
+1738666687800,3503,Add Contact ,201,Created,Load/stress Testing  1-21,text,true,,1062,856,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,3502,0,0
+1738666694251,3517,Get Contact,200,OK,Load/stress Testing  1-43,text,true,,1069,547,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f2c1ad458a00134b24a5,3517,0,0
+1738666696311,4367,Get Contact,200,OK,Load/stress Testing  1-21,text,true,,1057,547,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f2c3ad458a00134b24a6,4367,0,0
+1738666702772,3499,Delete Contact,200,OK,Load/stress Testing  1-43,text,true,,756,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f2c1ad458a00134b24a5,3499,0,0
+1738666705687,4049,Delete Contact,200,OK,Load/stress Testing  1-21,text,true,,756,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f2c3ad458a00134b24a6,4048,0,567
+1738666711273,2471,Add User,201,Created,Load/stress Testing  1-43,text,true,,1294,708,2,2,https://thinking-tester-contact-list.herokuapp.com/users,2471,0,594
+1738666714747,4996,Add User,201,Created,Load/stress Testing  1-21,text,true,,1299,709,1,1,https://thinking-tester-contact-list.herokuapp.com/users,4996,0,0
+1738667178066,7712,Login User,200,OK,Load/stress Testing  1-4,text,true,,1268,308,24,24,https://thinking-tester-contact-list.herokuapp.com/users/login,7712,0,866
+1738667177452,9012,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,665,308,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,9012,0,2208
+1738667176231,11471,Login User,401,Unauthorized,Load/stress Testing  1-1,,false,,669,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,11471,0,4732
+1738667179907,9101,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,673,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,9101,0,1754
+1738667180520,8554,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,673,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,8554,0,1793
+1738667181135,8366,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,673,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,8366,0,855
+1738667181749,7964,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,669,308,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,7964,0,1183
+1738667179294,10629,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,669,308,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,10629,0,3927
+1738667190781,0,Debug Sampler,200,OK,Load/stress Testing  1-4,text,true,,572,0,32,32,null,0,0,0
+1738667182361,9007,Login User,401,Unauthorized,Load/stress Testing  1-11,,false,,665,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,9007,0,2256
+1738667183590,7852,Login User,401,Unauthorized,Load/stress Testing  1-13,,false,,665,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,7852,0,1142
+1738667178680,14500,Login User,200,OK,Load/stress Testing  1-5,text,true,,1256,308,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,14500,0,6757
+1738667176838,16387,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,669,308,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,16387,0,9663
+1738667185425,9038,Login User,401,Unauthorized,Load/stress Testing  1-16,,false,,665,308,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,9038,0,2309
+1738667186651,8146,Login User,401,Unauthorized,Load/stress Testing  1-18,,false,,665,308,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,8146,0,1442
+1738667186039,9623,Login User,401,Unauthorized,Load/stress Testing  1-17,,false,,665,308,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,9623,0,2923
+1738667187875,8857,Login User,401,Unauthorized,Load/stress Testing  1-20,,false,,673,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,8857,0,2137
+1738667184813,12078,Login User,401,Unauthorized,Load/stress Testing  1-15,,false,,673,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,12078,0,5335
+1738667187264,9851,Login User,401,Unauthorized,Load/stress Testing  1-19,,false,,673,308,43,43,https://thinking-tester-contact-list.herokuapp.com/users/login,9851,0,3140
+1738667198182,1,Debug Sampler,200,OK,Load/stress Testing  1-5,text,true,,547,0,45,45,null,0,0,0
+1738667182975,15388,Login User,401,Unauthorized,Load/stress Testing  1-12,,false,,673,308,45,45,https://thinking-tester-contact-list.herokuapp.com/users/login,15388,0,8634
+1738667188490,10113,Login User,401,Unauthorized,Load/stress Testing  1-21,,false,,673,308,45,45,https://thinking-tester-contact-list.herokuapp.com/users/login,10113,0,1773
+1738667192703,6788,Login User,200,OK,Load/stress Testing  1-1,text,true,,1256,308,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,6788,0,0
+1738667191465,8127,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,665,308,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,8127,0,0
+1738667194076,6800,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,673,308,48,48,https://thinking-tester-contact-list.herokuapp.com/users/login,6800,0,0
+1738667190940,10447,Login User,401,Unauthorized,Load/stress Testing  1-25,,false,,673,308,48,48,https://thinking-tester-contact-list.herokuapp.com/users/login,10447,0,2155
+1738667194508,6898,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,673,308,48,48,https://thinking-tester-contact-list.herokuapp.com/users/login,6898,0,0
+1738667194714,7269,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,677,308,47,47,https://thinking-tester-contact-list.herokuapp.com/users/login,7269,0,0
+1738667195782,6263,Get Contacs List,200,OK,Load/stress Testing  1-4,text,true,,89784,524,46,46,https://thinking-tester-contact-list.herokuapp.com/contacts/,5686,0,0
+1738667189112,13037,Login User,401,Unauthorized,Load/stress Testing  1-22,,false,,673,308,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,13037,0,5466
+1738667191551,11474,Login User,401,Unauthorized,Load/stress Testing  1-26,,false,,665,308,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,11474,0,4506
+1738667194011,9026,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,677,308,46,46,https://thinking-tester-contact-list.herokuapp.com/users/login,9026,0,0
+1738667196368,7965,Login User,401,Unauthorized,Load/stress Testing  1-11,,false,,665,308,45,45,https://thinking-tester-contact-list.herokuapp.com/users/login,7965,0,0
+1738667190326,14052,Login User,401,Unauthorized,Load/stress Testing  1-24,,false,,665,308,44,44,https://thinking-tester-contact-list.herokuapp.com/users/login,14052,0,6636
+1738667204499,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,546,0,44,44,null,0,0,0
+1738667196443,8094,Login User,401,Unauthorized,Load/stress Testing  1-13,,false,,665,308,44,44,https://thinking-tester-contact-list.herokuapp.com/users/login,8094,0,0
+1738667194927,10018,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-6,text,false,,3260,0,43,43,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667192779,14907,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-28,text,false,,3260,0,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,4905
+1738667197078,10880,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-35,text,false,,3260,0,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,867
+1738667198227,9995,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,665,308,42,42,https://thinking-tester-contact-list.herokuapp.com/users/login,9995,0,0
+1738667193390,14997,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-29,text,false,,3260,0,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,4994
+1738667197689,10860,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-36,text,false,,3260,0,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,846
+1738667195245,13924,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-32,text,false,,3260,0,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3918
+1738667199466,10009,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-16,text,false,,3260,0,41,41,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667199798,10012,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-18,text,false,,3260,0,40,40,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667194632,15209,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-31,text,false,,3260,0,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,5204
+1738667196468,13486,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-34,text,false,,3260,0,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3477
+1738667198910,11148,Login User,401,Unauthorized,Load/stress Testing  1-38,,false,,681,308,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,11148,0,1183
+1738667195857,14398,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-33,text,false,,3260,0,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,4389
+1738667200664,10005,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-17,text,false,,3260,0,39,39,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667198298,12547,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-37,text,false,,3260,0,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2535
+1738667201732,10033,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-20,text,false,,3260,0,38,38,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667201907,10034,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-15,text,false,,3260,0,37,37,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667202130,10032,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-19,text,false,,3260,0,36,36,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667199520,12945,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-39,text,false,,3260,0,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2934
+1738667203192,10023,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",3260,0,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738667203368,10021,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-12,text,false,,3260,0,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667201353,12244,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-42,text,false,,3260,0,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2231
+1738667203607,10020,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-21,text,false,,3260,0,34,34,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667201972,13178,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-43,text,false,,3260,0,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3170
+1738667204403,10874,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-47,text,false,,3260,0,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,860
+1738667207048,8388,Update Contact ,200,OK,Load/stress Testing  1-4,text,true,,1053,988,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,8388,0,0
+1738667200740,14824,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-41,text,false,,3260,0,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,4816
+1738667189717,25989,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-23,text,false,,3260,0,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,15985
+1738667206390,10027,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-25,text,false,,3260,0,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667202573,13893,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-44,text,false,,3260,0,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3876
+1738667203798,13079,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-46,text,false,,3260,0,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3062
+1738667207159,10020,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-22,text,false,,3260,0,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667203178,14048,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-45,text,false,,3260,0,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,4036
+1738667208037,10029,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-26,text,false,,3260,0,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667200130,18258,Login User,401,Unauthorized,Load/stress Testing  1-40,,false,,677,308,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,18258,0,8495
+1738667209380,10023,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-24,text,false,,3260,0,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667209505,10024,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",3260,0,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738667205009,15581,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-48,text,false,,3260,0,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,5569
+1738667184200,36533,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-14,text,false,,3260,0,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,26527
+1738667194010,27198,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-30,text,false,,3260,0,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,17188
+1738667192164,29787,Login User,401,Unauthorized,Load/stress Testing  1-27,,false,,673,308,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,29787,0,23042
+1738667213389,8974,Login User,401,Unauthorized,Load/stress Testing  1-29,,false,,665,308,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,8974,0,1988
+1738667206216,16618,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-50,text,false,,3260,0,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,6607
+1738667215847,7428,Login User,401,Unauthorized,Load/stress Testing  1-37,,false,,665,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,7428,0,571
+1738667205611,18626,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-49,text,false,,3260,0,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,8623
+1738667217480,7345,Login User,200,OK,Load/stress Testing  1-39,text,true,,1264,308,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,7345,0,555
+1738667215070,10025,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-38,text,false,,3260,0,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667213563,11818,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-36,text,false,,3260,0,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1802
+1738667212689,12692,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-28,text,false,,3260,0,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2689
+1738667212959,12422,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-35,text,false,,3260,0,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2411
+1738667214960,10582,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-34,text,false,,3260,0,22,22,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,575
+1738667215260,10587,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-33,text,false,,3260,0,21,21,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,575
+1738667218608,7281,Login User,401,Unauthorized,Load/stress Testing  1-42,,false,,673,308,20,20,https://thinking-tester-contact-list.herokuapp.com/users/login,7281,0,563
+1738667214849,11889,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-31,text,false,,3260,0,19,19,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1874
+1738667214183,12603,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-32,text,false,,3260,0,18,18,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2594
+1738667220449,7944,Add Contact ,201,Created,Load/stress Testing  1-4,text,true,,1066,856,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts,7944,0,0
+1738667220717,8365,Login User,401,Unauthorized,Load/stress Testing  1-23,,false,,669,308,17,17,https://thinking-tester-contact-list.herokuapp.com/users/login,8365,0,1580
+1738667218225,11587,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-5,text,false,,3260,0,16,16,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1579
+1738667229826,0,Debug Sampler,200,OK,Load/stress Testing  1-39,text,true,,571,0,15,15,null,0,0,0
+1738667221892,9350,Login User,200,OK,Load/stress Testing  1-46,text,true,,1272,308,15,15,https://thinking-tester-contact-list.herokuapp.com/users/login,9350,0,2591
+1738667221477,10593,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-44,text,false,,3260,0,15,15,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,591
+1738667220574,11577,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-41,text,false,,3260,0,14,14,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1565
+1738667220290,12398,Login User,401,Unauthorized,Load/stress Testing  1-47,,false,,665,308,13,13,https://thinking-tester-contact-list.herokuapp.com/users/login,12398,0,5657
+1738667223392,10025,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-40,text,false,,3260,0,12,12,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667226960,6805,Login User,401,Unauthorized,Load/stress Testing  1-27,,false,,665,308,11,11,https://thinking-tester-contact-list.herokuapp.com/users/login,6805,0,0
+1738667226213,8568,Login User,401,Unauthorized,Load/stress Testing  1-30,,false,,665,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8568,0,564
+1738667225736,9176,Login User,401,Unauthorized,Load/stress Testing  1-14,,false,,665,308,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,9176,0,1571
+1738667236244,0,Debug Sampler,200,OK,Load/stress Testing  1-46,text,true,,571,0,8,8,null,0,0,0
+1738667225593,11423,Login User,401,Unauthorized,Load/stress Testing  1-48,,false,,669,308,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,11423,0,3995
+1738667227836,9214,Login User,401,Unauthorized,Load/stress Testing  1-50,,false,,669,308,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,9214,0,2173
+1738667233401,3652,Get Contact,200,OK,Load/stress Testing  1-4,text,true,,1057,547,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f4dbe0f4720013abc125,3652,0,0
+1738667222230,15856,Login User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-45,text,false,,3260,0,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,5843
+1738667234828,5245,Get Contacs List,200,OK,Load/stress Testing  1-39,text,true,,90095,524,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/,4381,0,0
+1738667220163,22065,Login User,200,OK,Load/stress Testing  1-43,text,true,,1260,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,22065,0,15219
+1738667242066,4060,Delete Contact,200,OK,Load/stress Testing  1-4,text,true,,760,615,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f4dbe0f4720013abc125,4060,0,569
+1738667229244,17341,Login User,401,Unauthorized,Load/stress Testing  1-49,,false,,669,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,17341,0,10582
+1738667247238,1,Debug Sampler,200,OK,Load/stress Testing  1-43,text,true,,567,0,4,4,null,0,0,0
+1738667245080,3504,Update Contact ,200,OK,Load/stress Testing  1-39,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3504,0,0
+1738667251130,358,Add User,201,Created,Load/stress Testing  1-4,text,true,,1303,709,4,4,https://thinking-tester-contact-list.herokuapp.com/users,358,0,0
+1738667252254,5234,Get Contacs List,200,OK,Load/stress Testing  1-43,text,true,,89784,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4680,0,0
+1738667253585,4100,Add Contact ,201,Created,Load/stress Testing  1-39,text,true,,1066,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,4100,0,0
+1738667256495,6880,Login User,200,OK,Load/stress Testing  1-4,text,true,,1256,308,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,6880,0,0
+1738667241252,25090,Get Contacs List,200,OK,Load/stress Testing  1-46,text,true,,90091,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,7035,0,0
+1738667262504,4931,Update Contact ,200,OK,Load/stress Testing  1-43,text,true,,1065,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4931,0,0
+1738667262694,5231,Get Contact,200,OK,Load/stress Testing  1-39,text,true,,1053,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f4f9ad458a00134b2574,5231,0,0
+1738667268377,0,Debug Sampler,200,OK,Load/stress Testing  1-4,text,true,,683,0,4,4,null,0,0,0
+1738667271355,4124,Update Contact ,200,OK,Load/stress Testing  1-46,text,true,,1073,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4124,0,0
+1738667272928,5490,Delete Contact,200,OK,Load/stress Testing  1-39,text,true,,752,615,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f4f9ad458a00134b2574,5490,0,0
+1738667278402,3524,Update Contact ,200,OK,Load/stress Testing  1-4,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3524,0,0
+1738667272437,10027,Add Contact ,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-43,text,false,,3260,0,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,0,0,0
+1738667280480,3517,Add Contact ,201,Created,Load/stress Testing  1-46,text,true,,1062,856,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,3517,0,0
+1738667283431,2469,Add User,201,Created,Load/stress Testing  1-39,text,true,,1298,708,3,3,https://thinking-tester-contact-list.herokuapp.com/users,2469,0,2120
+1738667286936,3521,Add Contact ,201,Created,Load/stress Testing  1-4,text,true,,1062,856,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,3521,0,0
+1738667288999,4093,Get Contact,200,OK,Load/stress Testing  1-46,text,true,,1053,547,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f514e0f4720013abc146,4093,0,573
+1738667295463,4386,Get Contact,200,OK,Load/stress Testing  1-4,text,true,,1069,547,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f51ae0f4720013abc14a,4386,0,0
+1738667298098,3507,Delete Contact,200,OK,Load/stress Testing  1-46,text,true,,760,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f514e0f4720013abc146,3507,0,0
+1738667304865,4670,Delete Contact,200,OK,Load/stress Testing  1-4,text,true,,756,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f51ae0f4720013abc14a,4670,0,563
+1738667314537,970,Add User,201,Created,Load/stress Testing  1-4,text,true,,1299,709,2,2,https://thinking-tester-contact-list.herokuapp.com/users,970,0,0
+1738667306616,11786,Add User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-46,text,false,,3500,0,1,1,https://thinking-tester-contact-list.herokuapp.com/users,0,0,0
+1738667406304,8211,Login User,200,OK,Load/stress Testing  1-1,text,true,,1260,308,22,22,https://thinking-tester-contact-list.herokuapp.com/users/login,8211,0,1301
+1738667408138,7588,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,665,308,24,24,https://thinking-tester-contact-list.herokuapp.com/users/login,7588,0,833
+1738667406912,10034,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,669,308,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,10034,0,3234
+1738667409365,7637,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,669,308,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,7637,0,894
+1738667408752,8510,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,8510,0,870
+1738667407524,10211,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,665,308,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,10211,0,3425
+1738667409979,8587,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,665,308,29,29,https://thinking-tester-contact-list.herokuapp.com/users/login,8587,0,863
+1738667419518,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,526,0,30,30,null,0,0,0
+1738667412434,7780,Login User,401,Unauthorized,Load/stress Testing  1-11,,false,,669,308,31,31,https://thinking-tester-contact-list.herokuapp.com/users/login,7780,0,877
+1738667411820,9674,Login User,200,OK,Load/stress Testing  1-10,text,true,,1256,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,9674,0,2812
+1738667410594,10939,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,669,308,33,33,https://thinking-tester-contact-list.herokuapp.com/users/login,10939,0,3392
+1738667414890,8203,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-15,text,false,,3250,0,35,35,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,5959
+1738667413047,10048,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-12,text,false,,3250,0,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3283
+1738667420729,2367,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-4,text,false,,3250,0,32,32,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667418581,4517,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-21,text,false,,3322,0,30,30,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,4517
+1738667416727,6373,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-18,text,false,,3250,0,29,29,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2319
+1738667419187,3914,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-22,text,false,,3250,0,28,28,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1184
+1738667422004,1099,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-6,text,false,,3250,0,27,27,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667411211,11896,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-9,text,false,,3250,0,26,26,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,10863
+1738667422736,376,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-3,text,false,,3250,0,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667421022,2091,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-25,text,false,,3423,0,25,25,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2091
+1738667421636,1478,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-26,text,false,,3322,0,23,23,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1478
+1738667422861,255,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-28,text,false,,2363,0,21,21,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,255
+1738667413661,9455,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-13,text,false,,3250,0,21,21,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,2569
+1738667416116,7002,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-17,text,false,,3250,0,18,18,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1737
+1738667414274,8845,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-14,text,false,,3250,0,14,14,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,5511
+1738667421948,1174,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-2,text,false,,3250,0,13,13,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667420410,2717,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-24,text,false,,3250,0,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,882
+1738667417340,5791,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-19,text,false,,3250,0,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,1707
+1738667417956,5176,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-20,text,false,,3250,0,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3437
+1738667422263,872,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-5,text,false,,3250,0,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,0
+1738667422250,885,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-27,text,false,,3322,0,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,885
+1738667415501,7634,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-16,text,false,,3322,0,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,7634
+1738667419802,3336,Login User,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Load/stress Testing  1-23,text,false,,3322,0,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,0,0,3336
+1738667428146,12204,Login User,200,OK,Load/stress Testing  1-37,text,true,,1256,308,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,12204,0,3580
+1738667445356,0,Debug Sampler,200,OK,Load/stress Testing  1-37,text,true,,527,0,1,1,null,0,0,0
+1738667450365,23919,Get Contacs List,200,OK,Load/stress Testing  1-37,text,true,,90095,524,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/,8629,0,0
+1738667479291,4146,Update Contact ,200,OK,Load/stress Testing  1-37,text,true,,1057,988,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4146,0,0
+1738667488452,8307,Add Contact ,201,Created,Load/stress Testing  1-37,text,true,,1058,856,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,8307,0,4044
+1738667501767,4518,Get Contact,200,OK,Load/stress Testing  1-37,text,true,,1053,547,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f5e8e0f4720013abc193,4518,0,0
+1738667511296,4439,Delete Contact,200,OK,Load/stress Testing  1-37,text,true,,752,615,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f5e8e0f4720013abc193,4439,0,0
+1738667520744,11836,Add User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-37,text,false,,3500,0,1,1,https://thinking-tester-contact-list.herokuapp.com/users,0,0,0
+1738667537583,8424,Login User,200,OK,Load/stress Testing  1-37,text,true,,1256,308,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,8424,0,1510
+1738667551013,0,Debug Sampler,200,OK,Load/stress Testing  1-37,text,true,,657,0,1,1,null,0,0,0
+1738667561025,3549,Update Contact ,200,OK,Load/stress Testing  1-37,text,true,,1069,988,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3549,0,0
+1738667569579,3544,Add Contact ,201,Created,Load/stress Testing  1-37,text,true,,1062,856,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,3544,0,0
+1738667578135,3578,Get Contact,200,OK,Load/stress Testing  1-37,text,true,,1061,547,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f635e0f4720013abc1b1,3578,0,0
+1738667586722,3521,Delete Contact,200,OK,Load/stress Testing  1-37,text,true,,756,615,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f635e0f4720013abc1b1,3521,0,0
+1738667595252,5992,Add User,201,Created,Load/stress Testing  1-37,text,true,,1292,706,1,1,https://thinking-tester-contact-list.herokuapp.com/users,5992,0,0
+1738667713620,8890,Login User,200,OK,Load/stress Testing  1-1,text,true,,1260,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8890,0,1981
+1738667714728,9053,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,9053,0,2195
+1738667716967,8177,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,665,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8177,0,865
+1738667715846,11442,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,11442,0,4643
+1738667727511,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,527,0,10,10,null,0,0,0
+1738667719188,10712,Login User,200,OK,Load/stress Testing  1-6,text,true,,1260,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,10712,0,3903
+1738667718077,11918,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,11918,0,5073
+1738667721413,8662,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8662,0,1875
+1738667722511,7696,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7696,0,854
+1738667720299,11016,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,11016,0,4218
+1738667723626,8434,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8434,0,863
+1738667734909,1,Debug Sampler,200,OK,Load/stress Testing  1-6,text,true,,546,0,10,10,null,0,0,0
+1738667729084,6806,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,6806,0,0
+1738667730446,6801,Login User,200,OK,Load/stress Testing  1-4,text,true,,1260,308,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,6801,0,0
+1738667732593,7381,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,669,308,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,7381,0,0
+1738667735307,6799,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,673,308,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,6799,0,0
+1738667735385,6799,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,673,308,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,6799,0,0
+1738667742250,0,Debug Sampler,200,OK,Load/stress Testing  1-4,text,true,,552,0,6,6,null,0,0,0
+1738667735509,6818,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,673,308,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,6818,0,0
+1738667736619,6812,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,669,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,6812,0,0
+1738667737367,6891,Login User,200,OK,Load/stress Testing  1-10,text,true,,1260,308,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,6891,0,0
+1738667749263,0,Debug Sampler,200,OK,Load/stress Testing  1-10,text,true,,547,0,4,4,null,0,0,0
+1738667747267,8154,Get Contacs List,200,OK,Load/stress Testing  1-4,text,true,,90099,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,5294,0,0
+1738667760434,3543,Update Contact ,200,OK,Load/stress Testing  1-4,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3543,0,0
+1738667754277,12467,Get Contacs List,200,OK,Load/stress Testing  1-10,text,true,,90099,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4473,0,0
+1738667768982,4511,Add Contact ,201,Created,Load/stress Testing  1-4,text,true,,1058,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,4511,0,0
+1738667771767,4592,Update Contact ,200,OK,Load/stress Testing  1-10,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4592,0,0
+1738667732514,51353,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,6235,0,0
+1738667781363,4061,Add Contact ,201,Created,Load/stress Testing  1-10,text,true,,1058,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,4061,0,0
+1738667739920,49811,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4957,0,0
+1738667778494,13836,Get Contact,200,OK,Load/stress Testing  1-4,text,true,,1053,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f6fdad458a00134b265f,13836,0,2712
+1738667790430,5118,Get Contact,200,OK,Load/stress Testing  1-10,text,true,,1065,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f709ad458a00134b2660,5118,0,1599
+1738667789173,7485,Login User,200,OK,Load/stress Testing  1-1,text,true,,1256,308,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,7485,0,579
+1738667797339,3544,Delete Contact,200,OK,Load/stress Testing  1-4,text,true,,756,615,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f6fdad458a00134b265f,3544,0,0
+1738667801661,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,550,0,4,4,null,0,0,0
+1738667800556,3536,Delete Contact,200,OK,Load/stress Testing  1-10,text,true,,760,615,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f709ad458a00134b2660,3536,0,0
+1738667795037,9352,Login User,200,OK,Load/stress Testing  1-6,text,true,,1260,308,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,9352,0,1823
+1738667809401,0,Debug Sampler,200,OK,Load/stress Testing  1-6,text,true,,552,0,4,4,null,0,0,0
+1738667809102,1506,Add User,201,Created,Load/stress Testing  1-10,text,true,,1300,706,4,4,https://thinking-tester-contact-list.herokuapp.com/users,1506,0,0
+1738667806667,6559,Get Contacs List,200,OK,Load/stress Testing  1-1,text,true,,90095,524,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/,5978,0,0
+1738667805896,13568,Add User,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-4,text,false,,3500,0,3,3,https://thinking-tester-contact-list.herokuapp.com/users,0,0,0
+1738667818231,3587,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1069,988,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3587,0,0
+1738667814417,15063,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738667826821,5208,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1058,856,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,5208,0,0
+1738667837037,4370,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1061,547,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f736ad458a00134b2664,4370,0,0
+1738667846410,3557,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,764,615,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f736ad458a00134b2664,3557,0,0
+1738667854984,3034,Add User,201,Created,Load/stress Testing  1-1,text,true,,1294,708,1,1,https://thinking-tester-contact-list.herokuapp.com/users,3034,0,2686
+1738667970652,7911,Login User,200,OK,Load/stress Testing  1-1,text,true,,1260,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7911,0,980
+1738667971759,8206,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,677,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8206,0,1381
+1738667972873,7657,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,665,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7657,0,849
+1738667973988,7709,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,677,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7709,0,837
+1738667975098,7640,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7640,0,857
+1738667983579,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,527,0,10,10,null,0,0,0
+1738667976214,7649,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,665,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7649,0,862
+1738667977327,7700,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,669,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7700,0,835
+1738667978442,8489,Login User,200,OK,Load/stress Testing  1-8,text,true,,1264,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8489,0,843
+1738667979539,7672,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,669,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7671,0,852
+1738667980651,7653,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,669,344,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7653,0,853
+1738667991933,0,Debug Sampler,200,OK,Load/stress Testing  1-8,text,true,,552,0,10,10,null,0,0,0
+1738667985832,6852,Login User,200,OK,Load/stress Testing  1-3,text,true,,1256,341,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,6852,0,0
+1738667985266,7556,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,673,341,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7556,0,0
+1738667987001,7508,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,669,341,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,7508,0,0
+1738667988584,5939,Get Contacs List,200,OK,Load/stress Testing  1-1,text,true,,90099,524,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/,5368,0,0
+1738667988047,8272,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,673,341,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,8272,0,0
+1738667989172,7587,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,673,341,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,7587,0,0
+1738667997686,0,Debug Sampler,200,OK,Load/stress Testing  1-3,text,true,,552,0,6,6,null,0,0,0
+1738667990335,7598,Login User,401,Unauthorized,Load/stress Testing  1-7,,false,,669,341,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,7598,0,0
+1738667992521,6844,Login User,200,OK,Load/stress Testing  1-9,text,true,,1268,341,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,6844,0,0
+1738667993607,6976,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,673,341,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,6976,0,0
+1738667999532,3548,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3548,0,0
+1738668004371,0,Debug Sampler,200,OK,Load/stress Testing  1-9,text,true,,527,0,4,4,null,0,0,0
+1738667996937,9721,Get Contacs List,200,OK,Load/stress Testing  1-8,text,true,,90095,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4819,0,0
+1738668002698,5897,Get Contacs List,200,OK,Load/stress Testing  1-3,text,true,,90099,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,5331,0,0
+1738668008082,3536,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1062,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,3536,0,0
+1738668009384,5317,Get Contacs List,200,OK,Load/stress Testing  1-9,text,true,,90406,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4745,0,0
+1738668011660,3571,Update Contact ,200,OK,Load/stress Testing  1-8,text,true,,1053,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3571,0,0
+1738668013601,3568,Update Contact ,200,OK,Load/stress Testing  1-3,text,true,,1065,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3568,0,0
+1738668016619,4302,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1057,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f7ebad458a00134b267f,4302,0,0
+1738668019707,5262,Update Contact ,200,OK,Load/stress Testing  1-9,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,5262,0,0
+1738668022169,3558,Add Contact ,201,Created,Load/stress Testing  1-3,text,true,,1058,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,3558,0,0
+1738668020233,6453,Add Contact ,201,Created,Load/stress Testing  1-8,text,true,,1062,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,6453,0,0
+1738668025925,3548,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,760,615,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f7ebad458a00134b267f,3548,0,0
+1738668029970,4228,Add Contact ,201,Created,Load/stress Testing  1-9,text,true,,1070,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,4228,0,0
+1738668030732,3546,Get Contact,200,OK,Load/stress Testing  1-3,text,true,,1061,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f7f9ad458a00134b2681,3546,0,0
+1738668034475,3393,Add User,201,Created,Load/stress Testing  1-1,text,true,,1310,706,4,4,https://thinking-tester-contact-list.herokuapp.com/users,3393,0,3050
+1738668031688,10025,Get Contact,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-8,text,false,,3260,0,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f7f8ad458a00134b2680,0,0,0
+1738668039201,4365,Get Contact,200,OK,Load/stress Testing  1-9,text,true,,1061,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f801e0f4720013abc21c,4365,0,0
+1738668039281,4701,Delete Contact,200,OK,Load/stress Testing  1-3,text,true,,760,615,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f7f9ad458a00134b2681,4701,0,571
+1738668048993,360,Add User,201,Created,Load/stress Testing  1-3,text,true,,1299,709,4,4,https://thinking-tester-contact-list.herokuapp.com/users,360,0,0
+1738668043171,6923,Login User,200,OK,Load/stress Testing  1-1,text,true,,1260,481,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,6923,0,0
+1738668048581,4106,Delete Contact,200,OK,Load/stress Testing  1-9,text,true,,756,615,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f801e0f4720013abc21c,4106,0,568
+1738668047015,7433,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,677,481,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,7433,0,567
+1738668055101,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,661,0,2,2,null,0,0,0
+1738668057689,355,Add User,201,Created,Load/stress Testing  1-9,text,true,,1302,706,2,2,https://thinking-tester-contact-list.herokuapp.com/users,355,0,0
+1738668065116,3559,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1053,988,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3559,0,0
+1738668073676,4187,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1058,856,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,4187,0,0
+1738668082865,3575,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1057,547,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f82dad458a00134b2688,3575,0,0
+1738668091443,3563,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,752,615,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1f82dad458a00134b2688,3563,0,0
+1738668100015,3349,Add User,201,Created,Load/stress Testing  1-1,text,true,,1306,708,1,1,https://thinking-tester-contact-list.herokuapp.com/users,3349,0,2999
+1738737889354,9230,Login User,200,OK,Load/stress Testing  1-1,text,true,,1260,344,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,9230,0,2342
+1738737903673,2,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,527,0,1,1,null,0,0,0
+1738737908678,25286,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/,4787,0,0
+1738737939273,8147,Login User,200,OK,Load/stress Testing  1-1,text,true,,1264,481,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,8147,0,1184
+1738737952436,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,546,0,1,1,null,0,0,0
+1738737957439,5367,Get Contacs List,200,OK,Load/stress Testing  1-1,text,true,,90402,524,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/,4514,0,0
+1738737967825,3593,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1061,988,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3593,0,0
+1738737976433,7806,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1062,856,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,7806,0,0
+1738737989250,3572,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1069,547,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a30940a908f200136b06de,3572,0,0
+1738737997829,3569,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,752,615,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a30940a908f200136b06de,3569,0,0
+1738738006406,1494,Add User,201,Created,Load/stress Testing  1-1,text,true,,1300,706,1,1,https://thinking-tester-contact-list.herokuapp.com/users,1494,0,1157

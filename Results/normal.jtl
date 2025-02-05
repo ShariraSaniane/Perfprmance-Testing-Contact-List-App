@@ -1,0 +1,190 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738664006956,7727,Login User,200,OK,Load/stress Testing  1-1,text,true,,1264,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7727,0,1086
+1738664008077,7467,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7467,0,854
+1738664009185,7424,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7424,0,832
+1738664010297,7520,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7520,0,903
+1738664011411,7491,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7491,0,874
+1738664012527,7455,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,677,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7455,0,871
+1738664013642,7519,Login User,200,OK,Load/stress Testing  1-7,text,true,,1260,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7519,0,850
+1738664021686,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,547,0,10,10,null,0,0,0
+1738664014735,7461,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7461,0,869
+1738664022546,0,Debug Sampler,200,OK,Load/stress Testing  1-2,text,true,,407,0,10,10,null,0,0,0
+1738664015846,7443,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7443,0,856
+1738664023612,0,Debug Sampler,200,OK,Load/stress Testing  1-3,text,true,,411,0,10,10,null,0,0,0
+1738664016958,7457,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7457,0,861
+1738664024821,0,Debug Sampler,200,OK,Load/stress Testing  1-4,text,true,,413,0,10,10,null,0,0,0
+1738664025903,1,Debug Sampler,200,OK,Load/stress Testing  1-5,text,true,,388,0,10,10,null,0,0,0
+1738664026983,0,Debug Sampler,200,OK,Load/stress Testing  1-6,text,true,,407,0,10,10,null,0,0,0
+1738664028162,1,Debug Sampler,200,OK,Load/stress Testing  1-7,text,true,,570,0,10,10,null,0,0,0
+1738664029197,1,Debug Sampler,200,OK,Load/stress Testing  1-8,text,true,,413,0,10,10,null,0,0,0
+1738664029548,300,Get Contacs List,401,Unauthorized,Load/stress Testing  1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",795,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,300,0,0
+1738664030298,0,Debug Sampler,200,OK,Load/stress Testing  1-9,text,true,,388,0,10,10,null,0,0,0
+1738664030614,291,Get Contacs List,401,Unauthorized,Load/stress Testing  1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",787,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,291,0,0
+1738664031417,0,Debug Sampler,200,OK,Load/stress Testing  1-10,text,true,,408,0,10,10,null,0,0,0
+1738664031831,310,Get Contacs List,401,Unauthorized,Load/stress Testing  1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",791,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,310,0,0
+1738664032913,310,Get Contacs List,401,Unauthorized,Load/stress Testing  1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",787,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,310,0,0
+1738664028703,5229,Get Contacs List,200,OK,Load/stress Testing  1-1,text,true,,89792,524,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,4633,0,0
+1738664033994,315,Get Contacs List,401,Unauthorized,Load/stress Testing  1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",791,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,315,0,0
+1738664036202,303,Get Contacs List,401,Unauthorized,Load/stress Testing  1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",787,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,303,0,0
+1738664036851,300,Update Contact ,401,Unauthorized,Load/stress Testing  1-2,text,false,Test failed: code expected to contain /200/,803,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,300,0,0
+1738664037310,301,Get Contacs List,401,Unauthorized,Load/stress Testing  1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",803,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,301,0,0
+1738664037913,297,Update Contact ,401,Unauthorized,Load/stress Testing  1-3,text,false,Test failed: code expected to contain /200/,791,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,297,0,0
+1738664038423,305,Get Contacs List,401,Unauthorized,Load/stress Testing  1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",791,219,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,305,0,0
+1738664039143,353,Update Contact ,401,Unauthorized,Load/stress Testing  1-4,text,false,Test failed: code expected to contain /200/,795,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,353,0,0
+1738664035170,5166,Get Contacs List,200,OK,Load/stress Testing  1-7,text,true,,89796,524,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,4326,0,0
+1738664040225,312,Update Contact ,401,Unauthorized,Load/stress Testing  1-5,text,false,Test failed: code expected to contain /200/,791,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,312,0,0
+1738664041310,338,Update Contact ,401,Unauthorized,Load/stress Testing  1-6,text,false,Test failed: code expected to contain /200/,791,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,338,0,0
+1738664043508,303,Update Contact ,401,Unauthorized,Load/stress Testing  1-8,text,false,Test failed: code expected to contain /200/,787,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,303,0,0
+1738664044157,301,Add Contact ,401,Unauthorized,Load/stress Testing  1-2,text,false,,791,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,301,0,0
+1738664044615,300,Update Contact ,401,Unauthorized,Load/stress Testing  1-9,text,false,Test failed: code expected to contain /200/,795,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,300,0,0
+1738664040942,4048,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1057,988,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4048,0,0
+1738664045215,294,Add Contact ,401,Unauthorized,Load/stress Testing  1-3,text,false,,795,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,294,0,0
+1738664045737,305,Update Contact ,401,Unauthorized,Load/stress Testing  1-10,text,false,Test failed: code expected to contain /200/,787,683,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,305,0,0
+1738664046505,293,Add Contact ,401,Unauthorized,Load/stress Testing  1-4,text,false,,787,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,293,0,0
+1738664047545,308,Add Contact ,401,Unauthorized,Load/stress Testing  1-5,text,false,,787,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,308,0,0
+1738664048649,298,Add Contact ,401,Unauthorized,Load/stress Testing  1-6,text,false,,787,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,298,0,0
+1738664050825,305,Add Contact ,401,Unauthorized,Load/stress Testing  1-8,text,false,,791,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,305,0,0
+1738664051461,299,Get Contact,401,Unauthorized,Load/stress Testing  1-2,text,false,,791,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,299,0,0
+1738664047341,4563,Update Contact ,200,OK,Load/stress Testing  1-7,text,true,,1053,988,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,4563,0,0
+1738664051922,300,Add Contact ,401,Unauthorized,Load/stress Testing  1-9,text,false,,791,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,300,0,0
+1738664052516,296,Get Contact,401,Unauthorized,Load/stress Testing  1-3,text,false,,799,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,296,0,0
+1738664053045,301,Add Contact ,401,Unauthorized,Load/stress Testing  1-10,text,false,,799,551,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,301,0,0
+1738664053803,297,Get Contact,401,Unauthorized,Load/stress Testing  1-4,text,false,,791,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,297,0,0
+1738664054856,386,Get Contact,401,Unauthorized,Load/stress Testing  1-5,text,false,,799,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,386,0,0
+1738664051993,4023,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1070,856,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,4023,0,0
+1738664055952,296,Get Contact,401,Unauthorized,Load/stress Testing  1-6,text,false,,799,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,296,0,0
+1738664058138,302,Get Contact,401,Unauthorized,Load/stress Testing  1-8,text,false,,791,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,302,0,0
+1738664059222,300,Get Contact,401,Unauthorized,Load/stress Testing  1-9,text,false,,795,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,300,0,0
+1738664060353,303,Get Contact,401,Unauthorized,Load/stress Testing  1-10,text,false,,799,227,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,303,0,0
+1738664060761,311,Delete Contact,401,Unauthorized,Load/stress Testing  1-2,text,false,,787,243,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,311,0,0
+1738664061817,295,Delete Contact,401,Unauthorized,Load/stress Testing  1-3,text,false,,799,243,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,295,0,0
+1738664058908,3490,Add Contact ,201,Created,Load/stress Testing  1-7,text,true,,1066,856,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,3490,0,0
+1738664063109,293,Delete Contact,401,Unauthorized,Load/stress Testing  1-4,text,false,,795,243,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,293,0,0
+1738664064256,310,Delete Contact,401,Unauthorized,Load/stress Testing  1-5,text,false,,795,243,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,310,0,0
+1738664065250,294,Delete Contact,401,Unauthorized,Load/stress Testing  1-6,text,false,,799,243,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,294,0,0
+1738664063030,3457,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1061,547,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1e878e0f4720013abbedf,3457,0,0
+1738664067444,302,Delete Contact,401,Unauthorized,Load/stress Testing  1-8,text,false,,791,243,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,302,0,0
+1738664068074,357,Add User,201,Created,Load/stress Testing  1-2,text,true,,1292,401,10,10,https://thinking-tester-contact-list.herokuapp.com/users,357,0,0
+1738664068535,300,Delete Contact,401,Unauthorized,Load/stress Testing  1-9,text,false,,795,243,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,300,0,0
+1738664069113,344,Add User,201,Created,Load/stress Testing  1-3,text,true,,1302,403,9,9,https://thinking-tester-contact-list.herokuapp.com/users,344,0,0
+1738664069661,311,Delete Contact,401,Unauthorized,Load/stress Testing  1-10,text,false,,795,243,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/NOT_FOUND,311,0,0
+1738664070402,1045,Add User,201,Created,Load/stress Testing  1-4,text,true,,1295,404,8,8,https://thinking-tester-contact-list.herokuapp.com/users,1045,0,700
+1738664071566,916,Add User,201,Created,Load/stress Testing  1-5,text,true,,1302,401,7,7,https://thinking-tester-contact-list.herokuapp.com/users,916,0,578
+1738664069399,3443,Get Contact,200,OK,Load/stress Testing  1-7,text,true,,1061,547,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1e87ead458a00134b2303,3443,0,0
+1738664072548,895,Add User,201,Created,Load/stress Testing  1-6,text,true,,1300,401,6,6,https://thinking-tester-contact-list.herokuapp.com/users,895,0,560
+1738664074750,930,Add User,201,Created,Load/stress Testing  1-8,text,true,,1299,404,5,5,https://thinking-tester-contact-list.herokuapp.com/users,930,0,588
+1738664075840,600,Add User,201,Created,Load/stress Testing  1-9,text,true,,1302,401,4,4,https://thinking-tester-contact-list.herokuapp.com/users,600,0,0
+1738664076975,915,Add User,201,Created,Load/stress Testing  1-10,text,true,,1292,401,3,3,https://thinking-tester-contact-list.herokuapp.com/users,915,0,571
+1738664075489,4109,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,752,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1e878e0f4720013abbedf,4109,0,607
+1738664081845,3989,Delete Contact,200,OK,Load/stress Testing  1-7,text,true,,760,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1e87ead458a00134b2303,3989,0,567
+1738664086599,371,Add User,201,Created,Load/stress Testing  1-1,text,true,,1302,706,2,2,https://thinking-tester-contact-list.herokuapp.com/users,371,0,0
+1738664092837,368,Add User,201,Created,Load/stress Testing  1-7,text,true,,1294,708,1,1,https://thinking-tester-contact-list.herokuapp.com/users,368,0,0
+1738665262309,7767,Login User,200,OK,Load/stress Testing  1-1,text,true,,1256,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7766,0,1126
+1738665263428,7468,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7468,0,854
+1738665264524,7495,Login User,401,Unauthorized,Load/stress Testing  1-3,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7495,0,876
+1738665265648,7447,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,681,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7447,0,860
+1738665266750,7521,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7521,0,938
+1738665275078,0,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,546,0,10,10,null,0,0,0
+1738665267872,8260,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,669,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8260,0,866
+1738665268985,7533,Login User,200,OK,Load/stress Testing  1-7,text,true,,1264,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7533,0,861
+1738665270098,7455,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7455,0,852
+1738665271208,8224,Login User,401,Unauthorized,Load/stress Testing  1-9,,false,,665,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,8224,0,854
+1738665272317,7503,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,673,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,7503,0,877
+1738665281519,0,Debug Sampler,200,OK,Load/stress Testing  1-7,text,true,,570,0,10,10,null,0,0,0
+1738665275904,6617,Login User,401,Unauthorized,Load/stress Testing  1-2,,false,,665,308,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,6617,0,0
+1738665277022,6649,Login User,200,OK,Load/stress Testing  1-3,text,true,,1260,308,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,6649,0,0
+1738665278102,6634,Login User,401,Unauthorized,Load/stress Testing  1-4,,false,,677,308,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,6634,0,0
+1738665281136,6713,Login User,401,Unauthorized,Load/stress Testing  1-6,,false,,665,308,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,6713,0,0
+1738665288672,0,Debug Sampler,200,OK,Load/stress Testing  1-3,text,true,,572,0,7,7,null,0,0,0
+1738665279274,9548,Login User,401,Unauthorized,Load/stress Testing  1-5,,false,,665,308,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,9548,0,0
+1738665282554,6610,Login User,401,Unauthorized,Load/stress Testing  1-8,,false,,669,308,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,6610,0,0
+1738665284442,6673,Login User,200,OK,Load/stress Testing  1-9,text,true,,1256,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,6673,0,0
+1738665284822,6628,Login User,401,Unauthorized,Load/stress Testing  1-10,,false,,669,308,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,6628,0,0
+1738665286526,9378,Get Contacs List,200,OK,Load/stress Testing  1-7,text,true,,89788,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4317,0,0
+1738665296125,0,Debug Sampler,200,OK,Load/stress Testing  1-9,text,true,,547,0,4,4,null,0,0,0
+1738665293679,5265,Get Contacs List,200,OK,Load/stress Testing  1-3,text,true,,89784,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4655,0,0
+1738665300912,3475,Update Contact ,200,OK,Load/stress Testing  1-7,text,true,,1057,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3475,0,0
+1738665303946,3481,Update Contact ,200,OK,Load/stress Testing  1-3,text,true,,1053,988,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3481,0,0
+1738665309394,4330,Add Contact ,201,Created,Load/stress Testing  1-7,text,true,,1062,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,4330,0,0
+1738665280086,35180,Get Contacs List,200,OK,Load/stress Testing  1-1,text,true,,89792,524,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4302,0,0
+1738665312440,4575,Add Contact ,201,Created,Load/stress Testing  1-3,text,true,,1058,856,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,4575,0,0
+1738665318732,3454,Get Contact,200,OK,Load/stress Testing  1-7,text,true,,1057,547,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1ed61e0f4720013abbf6e,3454,0,0
+1738665301137,21162,Get Contacs List,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Load/stress Testing  1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketTimeoutException]]]
+
+****** comparison: [[[200                                                    ]]]
+
+/",2590,0,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,4877,0,0
+1738665320273,3445,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1065,988,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3445,0,0
+1738665322020,4722,Get Contact,200,OK,Load/stress Testing  1-3,text,true,,1065,547,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1ed64e0f4720013abbf6f,4722,0,0
+1738665327190,3456,Delete Contact,200,OK,Load/stress Testing  1-7,text,true,,752,615,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1ed61e0f4720013abbf6e,3456,0,0
+1738665328726,4154,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1058,856,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,4154,0,719
+1738665331751,4000,Delete Contact,200,OK,Load/stress Testing  1-3,text,true,,752,615,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1ed64e0f4720013abbf6f,4000,0,558
+1738665335652,3658,Add User,201,Created,Load/stress Testing  1-7,text,true,,1306,708,3,3,https://thinking-tester-contact-list.herokuapp.com/users,3658,0,1872
+1738665337892,4108,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1061,547,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1ed75e0f4720013abbf72,4108,0,0
+1738665340762,1740,Add User,201,Created,Load/stress Testing  1-3,text,true,,1299,709,3,3,https://thinking-tester-contact-list.herokuapp.com/users,1740,0,0
+1738665347002,3463,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,772,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1ed75e0f4720013abbf72,3463,0,0
+1738665344312,6732,Login User,200,OK,Load/stress Testing  1-7,text,true,,1260,308,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,6732,0,0
+1738665356050,0,Debug Sampler,200,OK,Load/stress Testing  1-7,text,true,,681,0,2,2,null,0,0,0
+1738665355468,990,Add User,201,Created,Load/stress Testing  1-1,text,true,,1314,706,2,2,https://thinking-tester-contact-list.herokuapp.com/users,990,0,0
+1738665361459,6718,Login User,200,OK,Load/stress Testing  1-1,text,true,,1256,308,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,6717,0,0
+1738665366066,3464,Update Contact ,200,OK,Load/stress Testing  1-7,text,true,,1061,988,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,3464,0,0
+1738665373185,1,Debug Sampler,200,OK,Load/stress Testing  1-1,text,true,,682,0,2,2,null,0,0,0
+1738665374545,3464,Add Contact ,201,Created,Load/stress Testing  1-7,text,true,,1058,856,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,3464,0,0
+1738665383019,4345,Get Contact,200,OK,Load/stress Testing  1-7,text,true,,1057,547,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1eda2e0f4720013abbf7b,4345,0,0
+1738665383193,5056,Update Contact ,200,OK,Load/stress Testing  1-1,text,true,,1057,988,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/679f4de767095000136d0ef0,5056,0,0
+1738665392366,3905,Delete Contact,200,OK,Load/stress Testing  1-7,text,true,,756,615,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1eda2e0f4720013abbf7b,3905,0,0
+1738665393254,4264,Add Contact ,201,Created,Load/stress Testing  1-1,text,true,,1062,856,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,4264,0,822
+1738665401275,940,Add User,201,Created,Load/stress Testing  1-7,text,true,,1302,708,2,2,https://thinking-tester-contact-list.herokuapp.com/users,940,0,590
+1738665402523,3458,Get Contact,200,OK,Load/stress Testing  1-1,text,true,,1061,547,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1edb5e0f4720013abbf7c,3458,0,0
+1738665410986,3447,Delete Contact,200,OK,Load/stress Testing  1-1,text,true,,756,615,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1edb5e0f4720013abbf7c,3447,0,0
+1738665419449,358,Add User,201,Created,Load/stress Testing  1-1,text,true,,1307,709,1,1,https://thinking-tester-contact-list.herokuapp.com/users,358,0,0

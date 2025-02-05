@@ -1,0 +1,4 @@
+﻿firstName,lastName,email,password
+John,Doe,john.doe_${__Random(1000,9999)}@example.com,password123
+Jane,Smith,jane.smith_${__Random(1000,9999)}@example.com,password456
+Bob,Johnson,bob.johnson_${__Random(1000,9999)}@example.com,password789
